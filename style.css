@@ -1,0 +1,133 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+main {
+    box-shadow: 30px 0px 40px rgb(17, 17, 17), -30px 0px 40px rgb(15, 15, 15);
+   
+    max-width: 100%;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+   
+}
+
+.srkl {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    background-color: rgb(35, 158, 207);
+    width: 100%;
+}
+header {
+    
+    padding-top: 50px;
+    color: white;
+    background-color: rgb(48, 71, 58);
+    border-radius:5%;
+    height: 50%;
+    width: 100%;
+    
+    
+}
+
+.photo {
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 40%;
+    height: 30%;
+    overflow: hidden;
+}
+.des{
+   
+    
+    width: auto;
+    height: auto;
+}   
+h3{
+    color: #13c3ba;
+    font-weight: bold;
+    letter-spacing: 1%;
+    font-size: 20px;
+}
+.post{
+    color: rgb(0, 60, 255);
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+.right{
+    display: block;
+    
+}
+.right p{
+   margin-left: 600px;
+   letter-spacing: .1rem;    
+}
+.info{
+    width: 10%;
+    height: 10%;
+   
+ 
+}
+.section-left{
+    background-color: white;
+    float: left;
+    width: 100%;
+}
+.section-right{
+    background-color: white;
+    float: right;
+    width: 100%;
+}
+ h4{
+    margin-left: 10%;
+    color: #13c3ba;
+    letter-spacing: .1rem;
+    font-size: 18px;
+}
+hr.light{
+ border-top: 2px solid #13c3ba;
+ width: 90%;
+ margin-top: .8rem;
+ margin-bottom: 1rem;
+}
+.atouts{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 10%;
+}
+.div{
+    margin-left: 10%;
+}
+
+.skls {
+    padding: 0px;
+    width: 40%;
+    margin-left: 10%
+}
+.cool {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+}
+
+.po {
+    margin-top: 20px;
+}
+strong{
+    color: #13c3ba;
+    text-decoration: none; 
+}
+.inner {
+    height: 100%;
+    background-color:  rgb(51, 255, 0);
+}
+.interet{
+    margin-left: 10%;
+}
+span{
+    margin-left: 10px;
+}
+
